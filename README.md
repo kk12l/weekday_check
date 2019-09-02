@@ -1,1 +1,1 @@
-# wwekday_check
+# weekday_check
